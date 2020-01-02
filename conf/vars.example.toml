@@ -1,0 +1,7 @@
+environment="example"
+[environments]
+  [environments.example]
+    log_name="example"
+    db_name="example"
+    scrap_url="example"
+    scrap_url_base="example"
